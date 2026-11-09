@@ -1,0 +1,18 @@
+IDENTITAS MAHASISWA
+Nama       : Faizal Afif N
+NIM        : 202531420001
+Mata Kuliah: Komputasi Numerik
+
+LINK AKUN
+
+1. GitHub:
+   https://github.com/USERNAME
+
+2. Google Colab:
+   https://colab.research.google.com/
+
+3. LinkedIn:
+   https://www.linkedin.com/in/USERNAME/
+
+REPOSITORY TUGAS:
+https://github.com/USERNAME/Komputasi-Numerik
